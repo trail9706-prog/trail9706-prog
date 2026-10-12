@@ -1,7 +1,7 @@
-# Hey, I'm Katrail 👋
+# Hey, I'm Katrail (Trey)👋
 
 **Healthcare compliance & audit pro transitioning into cybersecurity and GRC.**
-Based in Mobile, Alabama. Coffee-fueled, detail-obsessed, and a former pastry chef who still believes a good process (like a good recipe) is all about the details. 🥐🔐
+Based in Alabama. Self empowered - fueled, detail-obsessed, and a former Licensed Health Insurance Agent who still believes a good process (like dotting all the "I's" and crossing all the "T's") is all about the details. 🥐🔐
 
 ---
 
@@ -12,13 +12,13 @@ I spent years in healthcare insurance, where I got hands-on with compliance audi
 - 🔍 Audit and compliance background: 85-90% compliance audit scores and 99% documentation accuracy
 - 🛡️ Experience with data privacy and regulated environments
 - 🎓 B.S. in Industrial & Organizational Psychology (Faulkner University)
-- 🍰 Fun fact: I earned an AAS in Culinary and Pastry Arts before pivoting into tech and security
+- 🍰 Fun fact: I earned an AAS in Culinary and Pastry Arts before pivoting into healthcare. And now, IT and security
 
 ---
 
 ## 🌱 Currently
 
-- 📚 Building my skills toward an entry-level GRC / cybersecurity role
+- 📚 Building my skills towards information security / GRC / cybersecurity role
 - 🎯 Working toward my next certification milestones
 - 🧪 Practicing with hands-on labs and documenting what I learn
 - 🤝 Open to GRC, audit, risk, and compliance opportunities
@@ -58,24 +58,15 @@ I spent years in healthcare insurance, where I got hands-on with compliance audi
 | Project | What it is | Skills shown |
 |---------|------------|--------------|
 | 📁 **[Project Name](https://github.com/YOUR_USERNAME/REPO_NAME)** | One-sentence description of what you built or analyzed | e.g. Risk assessment, NIST 800-53 mapping |
-| 📁 **[Project Name](https://github.com/YOUR_USERNAME/REPO_NAME)** | One-sentence description | e.g. Vulnerability scanning, reporting |
-| 📁 **[Project Name](https://github.com/YOUR_USERNAME/REPO_NAME)** | One-sentence description | e.g. Policy writing, compliance checklist |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+| 📁 **[AWS Security Monitoring and Control Validation](https://github.com/YOUR_USERNAME/REPO_NAME)** | To explore how selected Annex A controls might be supported by technical monitoring and evidence. | e.g. A.8.15 - Logging, A.8.16 - Monitoring activities, A.8.2 - Privileged access rights, A.5.18 - Access rights|
+| 📁 **[AWS IAM mapped to ISO 27001 Annex A 5.15, 5.18, 8.2, and 8.31.](https://github.com/YOUR_USERNAME/REPO_NAME)** | ISO/IEC 27001:2022 Annex A access control and environment separation.| e.g. 5.16 Identity management, 5.18 Access right, 8.2, 8.9 Configuration management|
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/only1katrailharris)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trey@kmharrisconnect.cloud)
 
 *Always happy to talk GRC, audits, or exam prep strategies.*
 
