@@ -122,3 +122,6 @@ audit, privacy, and security-compliance professionals.
 Framework mappings are educational references and do not, by themselves,
 establish compliance or certification of an organization.*
 
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-only1katrailharris)
