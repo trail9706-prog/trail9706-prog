@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=trail9706-prog&color=blueviolet)
 # Hi, I'm Katrail (Trey) Harris👋
 
 ## Cybersecurity GRC \| ISO 27001 \| Security Monitoring \| Healthcare Compliance
@@ -49,8 +50,28 @@ controls can be tested, monitored, and explained in business terms.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Core Knowledge Areas
+---
 
+## GitHub Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&theme=radical&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&theme=default&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&langs_count=8&card_width=320" height=200 />
+</picture>
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trail9706-prog&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## Core Knowledge Areas
   -----------------------------------------------------------------------
   Area                                Focus
   ----------------------------------- -----------------------------------
