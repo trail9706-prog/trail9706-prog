@@ -52,27 +52,8 @@ controls can be tested, monitored, and explained in business terms.
 
 ---
 
-## GitHub Stats
+## Core Knowledge Area
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&theme=radical&langs_count=8&card_width=320"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&theme=default&langs_count=8&card_width=320"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&langs_count=8&card_width=320" height=200 />
-</picture>
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=trail9706-prog&theme=radical)](https://git.io/streak-stats)
-
----
-
-## Core Knowledge Areas
-  -----------------------------------------------------------------------
   Area                                Focus
   ----------------------------------- -----------------------------------
   Governance, Risk & Compliance       Risk and control thinking, evidence
@@ -128,6 +109,27 @@ audit, privacy, and security-compliance professionals.
 *Portfolio projects are performed in learning or lab environments.
 Framework mappings are educational references and do not, by themselves,
 establish compliance or certification of an organization.*
+
+
+## GitHub Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&theme=radical&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&theme=default&langs_count=8&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trail9706-prog&layout=compact&langs_count=8&card_width=320" height=200 />
+</picture>
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=trail9706-prog&theme=radical)](https://git.io/streak-stats)
+
+---
+
 
 ## Connect with me
 
