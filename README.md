@@ -38,30 +38,16 @@ controls can be tested, monitored, and explained in business terms.
 -   Palo Alto Networks Security Fundamentals Professional Certificate
 -   Fortinet Network Security Support Engineer training
 
-## Featured Project
+---
 
-### AWS SOC Home Lab with Wazuh --- Detect and Investigate Security Events
+## Tech Stack
 
-**Project:** [My SOC Home Lab in AWS with
-Wazuh](https://github.com/trail9706-prog/trail9706-prog)
+**Languages:**
 
-Built an AWS-hosted security monitoring lab with a Wazuh server and
-Windows and Ubuntu endpoints. The project documents deployment and agent
-enrollment, then uses controlled lab simulations to investigate security
-events.
-
-**What the project covers** - Deploying Wazuh components in an AWS EC2
-environment - Enrolling Windows and Ubuntu endpoints - Reviewing
-authentication-failure events and investigating brute-force detection -
-Testing Windows account and administrator-group changes - Investigating
-Windows Security log-clearing events - Searching and reviewing event
-evidence in the Wazuh dashboard - Documenting security relevance,
-validation steps, and lessons learned
-
-**GRC connection:** The lab provides a practical way to explore access
-control, privileged access, logging, monitoring, audit evidence, and
-incident investigation. It is a learning lab---not a claim of production
-SOC experience or organizational ISO 27001 conformity.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=linux&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Core Knowledge Areas
 
